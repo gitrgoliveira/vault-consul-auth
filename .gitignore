@@ -1,0 +1,7 @@
+.terraform
+.vscode
+*.tfstate
+*.tfstate.backup
+*.token
+*.log
+*.json
